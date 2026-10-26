@@ -13,6 +13,14 @@
     "theme"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-susuluo/dsh-wallpaper-composer.git"
+  },
+  "homepage": "https://github.com/ai-susuluo/dsh-wallpaper-composer#readme",
+  "bugs": {
+    "url": "https://github.com/ai-susuluo/dsh-wallpaper-composer/issues"
+  },
   "engines": {
     "node": ">=20"
   },

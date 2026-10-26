@@ -1,5 +1,7 @@
 # dsh-wallpaper-composer
 
+> 仓库：<https://github.com/ai-susuluo/dsh-wallpaper-composer>
+
 给 DSH Web 界面换壁纸的插件：**整窗一张、按区域各一张、或者把区域自由拼成组合**，每种方式都能单独调暗度和模糊，还带一层可调的「文字保护」保证字看得清。
 
 A wallpaper plugin for the DSH Web UI: one image for the whole window, one per shell area, or your own combo groups — each with its own dim, blur and fit, plus a tunable text-legibility veil.
